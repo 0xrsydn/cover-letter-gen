@@ -43,8 +43,8 @@ Your application should now be running on local URL, `http://127.0.0.1:7860`.
 Fill in the required fields:
 
 1. Input your target job role, e.g., `Software Engineer`.
-2. Input the company's name, e.g., `Google Inc.`.
-3. Provide a brief detail about the target company, e.g., `A multinational tech company specializing in internet-related products and services.`.
+2. Input the company's name, e.g., `Google Inc.`
+3. Provide a brief detail about the target company, e.g., `A multinational tech company specializing in internet-related products and services.`
 4. Describe your profile (work experiences, academic background, etc.), e.g., `Graduated with a Computer Science degree and have 4 years of experience as a backend engineer.`
 
 Click the "Generate" button and behold! Your tailor-made cover letter is crafted instantly.
