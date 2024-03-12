@@ -2,6 +2,8 @@
 
 Cover Letter Generator is an AI-powered application that crafts personalized cover letters on the fly. Built with LangChain and Gradio library, it harnesses the power of ChatGPT to generate contextually relevant and engaging cover letters. Simply input your job role, target company's name & brief details, and your profile details (work experience, academic background, etc.) and let the magic happen!
 
+![Application Interface](img/Screenshot_53.png)
+
 ## Getting Started
 
 These instructions will help you set up the project locally on your machine.
