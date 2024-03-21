@@ -53,8 +53,7 @@ Click the "Generate" button and behold! Your tailor-made cover letter is crafted
 
 ## Live Demo
 
-You can check my live demo hosted on [Hugging Face Spaces](https://huggingface.co/spaces/0xrsydn/cover-letter-gen).
-![Huggingface Image](img/hf-logo.svg)
+You can check my live demo hosted on [Hugging Face Spaces](https://huggingface.co/spaces/0xrsydn/cover-letter-gen) 🤗
 
 ## Contributing
 
