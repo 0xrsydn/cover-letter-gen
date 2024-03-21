@@ -54,6 +54,7 @@ Click the "Generate" button and behold! Your tailor-made cover letter is crafted
 ## Live Demo
 
 You can check my live demo hosted on [Hugging Face Spaces](https://huggingface.co/spaces/0xrsydn/cover-letter-gen).
+![Huggingface Image](img/hf-logo.svg)
 
 ## Contributing
 
@@ -63,4 +64,4 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 As with all AI outputs, generated cover letters should be reviewed and thoroughly checked before use. The developer holds no liability for any inaccuracies or issues arising from the use of generated content.
 
-Constructive criticisms and suggestions are always welcome. Enjoy crafting your cover letter!
+Constructive criticisms and suggestions are always welcome.
