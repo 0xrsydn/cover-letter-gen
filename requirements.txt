@@ -1,3 +1,9 @@
 gradio
-langchain-openai
 langchain
+langchain-groq
+langchain-openai
+langchain-community
+transformers
+sentece-transformers
+faiss-cpu
+pymupdf
