@@ -31,7 +31,7 @@ To run this application, you will need to have:
     ```bash
     pip install -r requirements.txt
     ```
-    You can use python package manager such as venv or conda (it's your choice).
+    You can use python package manager such as venv or conda (it's your choice). In here, i use CPU to run the program, if you want to use GPU, install faiss-gpu instead.
    
 3. Run the application with the command:
 
