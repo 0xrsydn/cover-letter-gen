@@ -31,6 +31,7 @@ To run this application, you will need to have:
     ```bash
     pip install -r requirements.txt
     ```
+    You can use python package manager such as venv or conda (it's your choice).
    
 3. Run the application with the command:
 
@@ -40,6 +41,11 @@ To run this application, you will need to have:
 
 Your application should now be running on local URL, `http://127.0.0.1:7860`.
 
+## Update
+
+- Candidate profile input changed to user CV PDF file (RAG feature).
+- Changed to GROQ API Key (faster and free).
+
 ## Usage
 
 Fill in the required fields:
@@ -47,9 +53,7 @@ Fill in the required fields:
 1. Input your target job role, e.g., `Software Engineer`.
 2. Input the company's name, e.g., `Google Inc.`
 3. Provide a brief detail about the target company, e.g., `A multinational tech company specializing in internet-related products and services.`
-4. Describe your profile (work experiences, academic background, etc.), e.g., `Graduated with a Computer Science degree and have 4 years of experience as a backend engineer.`
-
-Click the "Generate" button and behold! Your tailor-made cover letter is crafted instantly.
+4. ~~Describe your profile (work experiences, academic background, etc.), e.g., `Graduated with a Computer Science degree and have 4 years of experience as a backend engineer.`~~ Changed to using PDF file RAG which is should be our resume (ATS) as candidate profile for better cover letter generation and effective generative (less writing!)
 
 ## Live Demo
 
@@ -63,4 +67,4 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 As with all AI outputs, generated cover letters should be reviewed and thoroughly checked before use. The developer holds no liability for any inaccuracies or issues arising from the use of generated content.
 
-Constructive criticisms and suggestions are always welcome.
+Suggestions are always welcome.
