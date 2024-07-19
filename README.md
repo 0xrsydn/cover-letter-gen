@@ -57,7 +57,7 @@ Fill in the required fields:
 
 ## Live Demo
 
-You can check my live demo hosted on [Hugging Face Spaces](https://huggingface.co/spaces/0xrsydn/cover-letter-gen) 🤗
+You can check my live demo hosted on Hugging Face Space. There is two version currently which is based on text input only, [First Version](https://huggingface.co/spaces/0xrsydn/cover-letter-gen) and [Second Version](https://huggingface.co/spaces/0xrsydn/cover-letter-gen-v2) (RAG feature).
 
 ## Contributing
 
