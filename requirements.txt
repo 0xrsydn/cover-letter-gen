@@ -4,6 +4,6 @@ langchain-groq
 langchain-openai
 langchain-community
 transformers
-sentece-transformers
+sentence-transformers
 faiss-cpu
 pymupdf
