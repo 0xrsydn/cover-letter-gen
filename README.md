@@ -46,6 +46,11 @@ Your application should now be running on local URL, `http://127.0.0.1:7860`.
 - Candidate profile input changed to user CV PDF file (RAG feature).
 - Changed to GROQ API Key (faster and free).
 
+## ToDo
+
+- [ ] Adding job post url for more accurate and specific cover letter.
+- [ ] Browsing tool for company context instead of manual input.
+
 ## Usage
 
 Fill in the required fields:
